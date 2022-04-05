@@ -1,5 +1,0 @@
-{
-"mongoURI":"mongodb+srv://root:admin@cluster0.poh2w.mongodb.net/devsite?retryWrites=true&w=majority",
-"jsonwebtokenSecret":"abcd123",
-"githubToken":"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"
-}
